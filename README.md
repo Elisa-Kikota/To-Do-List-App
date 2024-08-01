@@ -24,7 +24,7 @@ A simple To-Do List app built with Flutter.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Elisa-Kikota/todo_list_app.git
+    git clone https://github.com/Elisa-Kikota/To-Do-List-App.git
     cd todo_list_app
     ```
 
@@ -44,7 +44,7 @@ A simple To-Do List app built with Flutter.
 
 1. **App Icon**:
 
-    - Replace the `app_icon.png` file in `assets/images/` with your desired icon.
+    - Replace the `logo.png` file in `assets/images/` with your desired icon.
     - Run the following commands to generate the app icons:
 
         ```bash
